@@ -1,0 +1,10 @@
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\bin\Debug\NEw triangle.exe.config
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\bin\Debug\NEw triangle.exe
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\bin\Debug\NEw triangle.pdb
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw triangle.csproj.AssemblyReference.cache
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw_triangle.Properties.Resources.resources
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw triangle.csproj.GenerateResource.cache
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw triangle.csproj.CoreCompileInputs.cache
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw triangle.exe
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\NEw triangle.pdb
+D:\Visual studio code\AWQ5M4\NEw triangle\NEw triangle\obj\Debug\SierpienskyTriangle.Form1.resources
