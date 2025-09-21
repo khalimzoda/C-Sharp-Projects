@@ -33,9 +33,9 @@ This repository contains the following individual projects:
 **Location:** `/PasswordGenerator`  
 **Description:** A basic Password Generator, which generates password based on your criteria
 **Key Concepts:** Method creation, switch statements, error handling.
----
+
 ### 4. Sierpinski Triangle Generator
-**Location:** `/SierpinskyFractals`  
+**Location:** `C-Sharp-Projects/SierpinskyFractals`  
 **Description:** A C# console application that recursively generates the classic Sierpinski fractal, demonstrating algorithms and recursive thinking.
 **Key Concepts:** Recursion, Iteration, Fractal geometry, Chaos Game
 ---
