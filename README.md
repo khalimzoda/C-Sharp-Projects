@@ -17,7 +17,7 @@ This repository contains the following individual projects:
 ### Option 2: Using the .NET CLI
 1. Open a terminal in the project folder (e.g., `C-Sharp-Projects/TicTacToe3Players`).
 2. Run the project by pointing to its `.csproj` file:
-   ```bash
+  WindowsFormsApp5.csproj ```bash
 
 ### 1. Gomoku or 3Player TicTacTOe
 **Location:** `C-Sharp-Projects/TicTacToe3Players`  
